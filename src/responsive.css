@@ -1,0 +1,89 @@
+@media only screen and (max-width: 768px) {
+    .Nav-div{
+        width: 95%;
+    }
+
+    .nav-items-wrap {
+        display: inline-block;
+        width: 100%;
+    }
+
+    .hamburger-menu{
+    display: inline-block;
+    margin-right: 15px;        
+    }
+
+    .mobile-menu {
+      display: none;
+      height: 500px;
+      width: 180px;
+      background-color: white;  
+      position: relative;
+      z-index: 2;
+    }
+
+    .mobile-menu ul {
+        display: block;
+    }
+    .mobile-menu li{
+        font-size: 26px;
+        display: block;
+        color: black;
+        font-weight: 700;
+        padding: 10% 0;
+    }
+    
+
+    nav {
+        width: 50%;
+    }
+
+
+    ul {
+        display: none;
+    }
+
+    .bigLine{
+        display: none;
+    }
+
+    .body-outer-div {
+        display: block;
+    }
+
+    .cart-iconcounter {
+        height: 20px;
+    }
+
+    .avatar {
+        width: 35px;
+        margin-left: 0;
+    }
+
+    .first > img {
+        width: 300px;
+    }
+    
+    .div-for-item-description > p {
+        width: 95%;
+    }
+    
+    h3 {
+        margin-right: 10%;
+        float: right;
+    }
+
+    .Two-buttons {
+        flex-direction: column;
+        row-gap: 15px;
+    }
+
+    .item-counter {
+        width: 95%;
+    }
+
+    .cart-button {
+        width: 95%;
+    }
+
+}
