@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/ecommerce-website-react-edition-Nno4v2e4gE))
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://luktoria.github.io/Ecommerce-website/))
 
 ## My process
 
