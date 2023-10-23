@@ -37,11 +37,9 @@ Users should be able to:
 ### Links
 
 
-- Solution URL: [https://your-solution-url.com](https://www.frontendmentor.io/solutions/ecommerce-website-react-edition-Nno4v2e4gE)]([https://your-solution-url.com](https://your-solution-url.com](https://www.frontendmentor.io/solutions/ecommerce-website-react-edition-Nno4v2e4gE)))
-- Live Site URL: [https://your-live-site-url.com](https://luktoria.github.io/Ecommerce-website/](https://your-live-site-url.com](https://luktoria.github.io/Ecommerce-website/)
-- 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/ecommerce-website-react-edition-Nno4v2e4gE))
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://luktoria.github.io/Ecommerce-website/))
+- Solution URL: (https://www.frontendmentor.io/solutions/ecommerce-website-react-edition-Nno4v2e4gE)]([https://your-solution-url.com](https://your-solution-url.com](https://www.frontendmentor.io/solutions/ecommerce-website-react-edition-Nno4v2e4gE)))
+- Live Site URL: (https://luktoria.github.io/Ecommerce-website/](https://your-live-site-url.com](https://luktoria.github.io/Ecommerce-website/)
+
 
 ## My process
 
